@@ -1,0 +1,11 @@
+/* Styling For Places */
+.places {
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+    box-sizing: border-box;
+}
